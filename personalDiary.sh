@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+@author: Felype Invictus <felype.invictus@gmail.com>
+@version: 1.0
+
+
 # BLOCO 1
 year=$(date +"%Y")
 directories=($(find . -maxdepth 1 -type d -name "[0-9]*" -printf "%f\n" | sort -rn))
