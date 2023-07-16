@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-@author: Felype Invictus <felype.invictus@gmail.com>
-@version: 1.0
+#@author: Felype Invictus <felype.invictus@gmail.com>
+#@version: 1.0
 
 
 # BLOCO 1
