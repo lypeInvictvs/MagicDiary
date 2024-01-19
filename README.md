@@ -1,7 +1,7 @@
 # MagicDiary
 <div align="center">
   
-[![VScode version](https://img.shields.io/visual-studio-marketplace/v/FelypeInvictus.MagicDiary)](https://marketplace.visualstudio.com/items?itemName=FelypeInvictus.MagicDiary&ssr=false#overview)
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
 [![License: APACHE](https://img.shields.io/badge/License-APACHE%202.0-yellow)](/LICENSE)
 
 </div>
