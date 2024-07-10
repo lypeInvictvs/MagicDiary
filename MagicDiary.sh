@@ -117,7 +117,7 @@ showIntro(){
     echo -e "\e[31mAUTHOR: FELYPE RANGEL <FelypeInvictus>"
     echo -e "\e[31mVERSION: 1.0.0" 
     echo -e "\e[31mDESCRIPTION: A SIMPLE PERSONAL DIARY FOR USE IN YOUR LINUX TERMINAL. ENJOY IT!"
-    echo -e "\e[34mUPDATE/INFO: https://github.com/FelypeInvictus/MagicDiary"
+    echo -e "\e[34mUPDATE/INFO: https://github.com/lypeInvictvs/MagicDiary"
     echo -e "\e[31mCOPYRIGHT © 2024 FELYPE RANGEL"
     echo -e "\e[0m"
     
